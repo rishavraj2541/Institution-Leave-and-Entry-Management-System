@@ -1,0 +1,9 @@
+
+table, th,td {
+    border: 1px solid;
+    
+  }
+.p-5{
+    background-color: #3CE3F6;
+    border: 3px solid;
+}
